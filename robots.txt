@@ -12,6 +12,9 @@ Allow: */modules/*.css
 Allow: */modules/*.js
 Allow: */modules/*.png
 Allow: */modules/*.jpg
+Allow: */modules/*.gif
+Allow: */modules/*.woff
+Allow: */modules/*.woff2
 # Private pages
 Disallow: /*?order=
 Disallow: /*?tag=
